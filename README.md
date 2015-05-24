@@ -53,6 +53,7 @@ run_analysis.R script doing following things
 - giving activity column a descriptive names.
 
 - using grep("mean|std",column_names) to get all the columns with name of mean or std.
+- finally add subject and activity columns to get the data set we want.
 
 
 
