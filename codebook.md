@@ -20,8 +20,6 @@ fBodyGyro-XYZ, fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag. (Note the 'f' to
 - These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
-### The whole dataset have 561 measurements and we extracted with the script run_analysis.R to extract measurements named
-with mean or std,and have gotten following 79 variable and add subject and activity to get 81 varibles and 10299 observations
 
 The set of variables that were estimated from these signals are: 
 - mean(): Mean value
@@ -29,6 +27,7 @@ The set of variables that were estimated from these signals are:
 - meanFreq(): Weighted average of the frequency components to obtain a mean frequency
 - angle(): Angle between to vectors.
 
+### The whole dataset have 561 measurements and we extracted with the script run_analysis.R to extract measurements named with mean or std,and have gotten following 79 variable and add subject and activity to get 81 varibles and 10299 observations
 
 ## The extracted variables are listed as follow.
 
