@@ -34,9 +34,8 @@ The set of variables that were estimated from these signals are:
 1. subject:The obtained dataset has been randomly partitioned into two sets. where 70% of the volunteers was selected for generating the training data and 30% the test data. with following group
  
 
-           +  test group: subject no. 2   4   9  10  12  13  18  20  24.
-           +  
-           +  train group: subject no. 1   3   5   6   7   8  11  14  15  16  17  19  21  22  23  25  26  27  28  29  30.
+           +  test group: subject no. 2  4  9  10  12  13  18  20  24.
+           +  train group: subject no. 1 3  5  6  7  8 11 14 15 16 17 19 21 22 23 25 26 27 28 29 30.
 2. activity:each subject has measure 6 activities-1 WALKING;2 WALKING_UPSTAIRS;3 WALKING_DOWNSTAIRS;4 SITTING;
            5 STANDING;6 LAYING
 3.  tBodyAcc-mean()-X
