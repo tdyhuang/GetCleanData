@@ -49,3 +49,13 @@ Notes:
 data <- read.table(file_path, header = TRUE) 
 
     View(data)
+## run_analysis.R script doing following things
+=====================================================
+-read files in test sub-directory and use cbind() to combine them
+-read files in  train sub-directory and use cbind() to combine them
+-using rbind() to combine test and train data to get the whole data set
+-using features.txt to let data has a descriptive column names
+-giving activity column a descriptive names
+-using grep("mean|std") to get all the columns with name of mean or std
+
+
